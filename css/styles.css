@@ -9,6 +9,11 @@
   text-align: center;
 }
 
+.intro {
+  width: 50%;
+  float: center;
+}
+
 .headers {
   color: red;
   text-align: center;
@@ -17,13 +22,22 @@
 }
 
 .body {
-  font-size: 20px
+  font-size: 20px;
 }
 
 .DNB {
   color: green;
 }
 
-.boxmodels {
-  border: 2px solid black
+.boxmodels1 {
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 20px;
 }
+
+.boxmodels2 {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 10px;
+}
+
