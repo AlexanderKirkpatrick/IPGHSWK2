@@ -30,14 +30,15 @@
 }
 
 .boxmodels1 {
-  margin: 12px;
-  border: 2px solid blue;
-  padding: 20px;
+  margin: 5px;
+  border: 10px solid blue;
+  padding: 5px;
+  background-color: orange;
 }
 
 .boxmodels2 {
-  margin: 12px;
-  border: 2px solid green;
-  padding: 10px;
+  margin: 30px;
+  border: 10px solid green;
+  padding: 20px;
+  background-color: orange;
 }
-
