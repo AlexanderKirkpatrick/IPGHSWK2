@@ -2,7 +2,6 @@
   color: red;
   text-align: center;
   font-style: sans-serif;
-  text-size: 30px;
 }
 
 .img {
@@ -10,11 +9,12 @@
 }
 
 .intro1 {
+  text-align: left;
   width: 50%;
 }
 
 .main {
-  width: 1200px;
+  width: 1600px;
 }
 
 .headers {
@@ -35,17 +35,17 @@
 .boxmodels1 {
   margin: 5px;
   border: 10px solid blue;
-  padding: 5px;
+  padding: 20px;
   background-color: orange;
-  width: 800px;
+  width: 45%;
   float: left;
 }
 
 .boxmodels2 {
-  margin: 30px;
+  margin: 5px;
   border: 10px solid green;
   padding: 20px;
   background-color: orange;
-  width: 800px;
+  width: 45%;
   float: right;
 }
