@@ -7,7 +7,6 @@
 
 .img {
   text-align: center;
-  
 }
 
 .headers {
@@ -23,4 +22,8 @@
 
 .DNB {
   color: green;
+}
+
+.boxmodels {
+  border: 2px solid black
 }
