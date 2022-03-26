@@ -20,7 +20,7 @@ No known bugs as of yet. Please contact knibz@protonmail.com for any suggestions
 
 ## GitHub Pages Link
 
-alexanderkirkpatrick.github.io/IPGHSWK2
+AlexanderKirkpatrick.github.io/ipghswk2
 
 ## License
 
