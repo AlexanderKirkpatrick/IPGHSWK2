@@ -26,7 +26,7 @@ No known bugs as of yet. Please contact knibz@protonmail.com for any suggestions
 
 ## GitHub Pages Link
 
-[AlexanderKirkpatrick.github.io/ipghswk2](AlexanderKirkpatrick.github.io/ipghswk2)
+[AlexanderKirkpatrick.github.io/ipghswk2](https://alexanderkirkpatrick.github.io/ipghswk2/)
 
 ## License
 
