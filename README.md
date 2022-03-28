@@ -14,6 +14,12 @@
 
 This is a simple portfolio landing page, created  to give a face to the person behind the curtain.
 
+## Setup/Installation Requirements
+
+* Clone this repository to your desktop
+* Navigate to the top level of directory
+* Open ipghswk2/index.html in your browser
+
 ## Known Bugs
 
 No known bugs as of yet. Please contact knibz@protonmail.com for any suggestions or fixes.
